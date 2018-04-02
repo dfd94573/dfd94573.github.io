@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+           <title> index.html </title>
+
+           <style type="text/css">
+
+           div {
+
+    border: 1px tan;
+
+    margin: 25px 50px 75px 50px;
+
+           
+
+}
+
+</style>
+
+</head>
+
+           <h1 style="color: black; text-align: center"> Darby's Delicious Delights </h1>
+
+           <h3 style="text-align: center"> <address> Atlanta, GA </address> 770-999-3838</h3>
+
+<body bgcolor= "pink"> 
+
+<div>
+
+<img src= "IMG_1727.jpg">
+
+           <main> <font face="arial"><p> Darby's Delicious Delights is a cupcake business that operates out of Atlanta, GA. Darby created the company when she was 16 years old and we pride ourselves on using only the best ingredients and unique recipes. Our best sellers include Honey Bacon, Key Lime, Toasted Marshmellow, Chocolate Mocha, Salted Caramel, and Red Velvet. </p>
+
+           <p> At Darby's Delicious Delights, you can find the best baked goods in all of Georgia. They are specially crafted for each customer and can be ordered online or through our email, darbysdeliciousdelights@gmail.com. Not only can you order our original cupcakes, you can also place orders for cakes, cookies, brownies, donuts, cake pops, and specific items that one might enjoy. We as a company are commited to customer satisfaction and enjoyment. Please contact us to taste one of our delicious treats today!  </p>
+
+           <IMG src= "IMG_1728.jpg" alt= "Darby's Delicious Delights selling cupcakes at the farmers market."> </main>
+
+<p> Darby's Delicious Delights sells cupcakes and other baked goods at farmers markets around the country every Saturday. A different flavor is featured each week and samples are always availble for customers.  
+
+ </p>
+
+<h4> <section> Cupcake Menu </h4>
+
+<p>  Red Velvet, Chocolate Mocha, Toasted Marshmellow, Salted Caramel, Honey Bacon, Vanilla, Chocolate, Maple, Peanut Butter Chocolate, Key Lime, Banana, Pumpkin Spice, Green Tea, Cinnamon Swirl, Blueberry Crunch, Chocolate Chip, Butter Pecan, Cheesecake, Tiramisu, Sweet Tea and Lemonade, Pineapple Coconut, Cherry Cola, Peach Cobbler, Lemon Marscarpone, Peach, Strawberry, Snickerdoodle, Lemon Raspberry, Mint Chocolate Chip, Pistachio and Vanilla Bean, Cookie Dough, Chocolate Hazelnut, Carrot Cake, Lemon Blueberry, Peanut Butter Banana, flavor of the month</p>
+
+<h4>Ordering Instructions </h4>
+
+<p> <a href="https://www.google.com/gmail''Email darbysdeliciousdelights@gmail.com> Click here </a> to email and send order in detail. </p>
+
+</section>
+
+<Table> 
+
+           <body> <h1>Prices of Cupcakes and Baked Goods</h1> <table border=1>  
+<tr> <th>Number</th><th>Price</th><th>Flavor</th>  
+<tr> <td>1</td><td>Half Dozen</td><td>Dozen</td><td>CS More than 12</tr>  
+<tr> <td>$3</td><td>$16</td><td>$20</td><td>Email for details</td>  
+
+
+
+ </body>
+
+           
+
+           
+
+ 
+
+</html>
+
+ 
+
