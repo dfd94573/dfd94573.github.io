@@ -32,7 +32,7 @@
 
 <div>
 
-<img src= "IMG_1727.jpg">
+<img src= "IMG_1727.jpg"> height="500" width="200"
 
            <main> <font face="arial"><p> Darby's Delicious Delights is a cupcake business that operates out of Atlanta, GA. Darby created the company when she was 16 years old and we pride ourselves on using only the best ingredients and unique recipes. Our best sellers include Honey Bacon, Key Lime, Toasted Marshmellow, Chocolate Mocha, Salted Caramel, and Red Velvet. </p>
 
@@ -50,7 +50,7 @@
 
 <h4>Ordering Instructions </h4>
 
-<p> <a href="https://www.google.com/gmail''Email darbysdeliciousdelights@gmail.com> Click here </a> to email and send order in detail. </p>
+<p> <a href="https://www.google.com/gmail'' </a> Email darbysdeliciousdelights@gmail.com> Click here to email and send order in detail. </p>
 
 </section>
 
@@ -63,7 +63,7 @@
 
 
 
- </body>
+ <caption>
 
            
 
