@@ -24,7 +24,7 @@
 
 </head>
 
-           <h1 style="color: black; text-align: center"> Darby's Delicious Delights </h1>
+           <h1 style="color: Blue; text-align: center"> Darby's Delicious Delights </h1>
 
            <h3 style="text-align: center"> <address> Atlanta, GA </address> 770-999-3838</h3>
 
@@ -32,13 +32,13 @@
 
 <div>
 
-<img src= "IMG_1727.jpg"> height="500" width="200"
+<h4 style="color: Green; text-align: center"> <img src= "IMG_1727.jpg" width="300" heigh="400"> 
 
            <main> <font face="arial"><p> Darby's Delicious Delights is a cupcake business that operates out of Atlanta, GA. Darby created the company when she was 16 years old and we pride ourselves on using only the best ingredients and unique recipes. Our best sellers include Honey Bacon, Key Lime, Toasted Marshmellow, Chocolate Mocha, Salted Caramel, and Red Velvet. </p>
 
            <p> At Darby's Delicious Delights, you can find the best baked goods in all of Georgia. They are specially crafted for each customer and can be ordered online or through our email, darbysdeliciousdelights@gmail.com. Not only can you order our original cupcakes, you can also place orders for cakes, cookies, brownies, donuts, cake pops, and specific items that one might enjoy. We as a company are commited to customer satisfaction and enjoyment. Please contact us to taste one of our delicious treats today!  </p>
 
-           <IMG src= "IMG_1728.jpg" alt= "Darby's Delicious Delights selling cupcakes at the farmers market."> </main>
+           <IMG src= "IMG_1728.jpg" width="300" heigh="400" alt= "Darby's Delicious Delights selling cupcakes at the farmers market."> </main>
 
 <p> Darby's Delicious Delights sells cupcakes and other baked goods at farmers markets around the country every Saturday. A different flavor is featured each week and samples are always availble for customers.  
 
@@ -50,15 +50,16 @@
 
 <h4>Ordering Instructions </h4>
 
-<p> <a href="https://www.google.com/gmail'' </a> Email darbysdeliciousdelights@gmail.com> Click here to email and send order in detail. </p>
+
+<p> <a href>"https://www.google.com/gmail'' </a> Email darbysdeliciousdelights@gmail.com  Click here to email and send order in detail. </p>
 
 </section>
 
 <Table> 
 
            <body> <h1>Prices of Cupcakes and Baked Goods</h1> <table border=1>  
-<tr> <th>Number</th><th>Price</th><th>Flavor</th>  
-<tr> <td>1</td><td>Half Dozen</td><td>Dozen</td><td>CS More than 12</tr>  
+<tr> <th>Quantity and Prices</th>  
+<tr> <td>1</td><td>Half Dozen</td><td>Dozen</td><td> More than 12</tr>  
 <tr> <td>$3</td><td>$16</td><td>$20</td><td>Email for details</td>  
 
 
